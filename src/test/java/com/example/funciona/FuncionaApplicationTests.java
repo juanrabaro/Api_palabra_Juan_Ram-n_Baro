@@ -1,10 +1,10 @@
-package com.example.ApiPalabraJR;
+package com.example.funciona;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApiPalabraJrApplicationTests {
+class FuncionaApplicationTests {
 
 	@Test
 	void contextLoads() {
